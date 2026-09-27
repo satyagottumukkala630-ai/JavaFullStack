@@ -1,5 +1,5 @@
-# Ignore the local library folder
-library/
+# Ignore the local lib folder
+lib/
 
 # Ignore compiled Java files and build tools
 *.class
